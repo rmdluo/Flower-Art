@@ -39,12 +39,8 @@ int mode[2] = {0, 0};
 int newMode[2] = {0, 0};
 std::unordered_map<int, bool> pressed;
 
-int main(int argc, char** argv)
+int main()
 {
-    if(argc > 1) {
-        currColor = std::__cxx11::stoi(argv[1]) * 2;
-    }
-
     // glfw: initialize and configure
     // ------------------------------
     glfwInit();
