@@ -1,4 +1,4 @@
-# OpenGLArt
+# Flower Art
 ## Introduction
 OpenGLArt combines basic computer graphics and art using OpenGL to create an interactive experience.
 
