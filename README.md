@@ -1,6 +1,6 @@
 # Flower Art
 ## Introduction
-OpenGLArt combines basic computer graphics and art using OpenGL to create an interactive experience.
+Combines basic computer graphics and art using OpenGL to create an interactive experience.
 
 ## How to use
 To start, open the flower.exe file. After that, there are a few controls you can use:
